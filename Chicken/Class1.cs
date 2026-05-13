@@ -45,25 +45,19 @@ namespace Chicken
             Age = age;
         }
 
-        public double CalculateProductPerDay()
-        {
-            if (Age >= 0 && Age < 6)
-            {
-                return 2;
-            }
-            else if (Age >= 6 && Age < 12)
-            {
-                return 1;
-            }
-            else
-            {
-                return 0.75;
-            }
-        }
+        public string CalculateProductPerDay()
+{
+    if (this.age < 0 || this.age > 15)
+    {
+        throw new ArgumentException("Age should be between 0 and 15.");
+    }
 
-        public override string ToString()
-        {
-            return $"Chicken {Name} (age {Age}) can produce {CalculateProductPerDay()} eggs per day.";
-        }
+    return $"Chicken {this.name}(age {this.age}) can produce 1 eggs per day.";
+}
+
+public string ToString()
+{
+    return $"Chicken {Name} (age {Age}) can produce {CalculateProductPerDay()} eggs per day.";
+}
     }
 }
