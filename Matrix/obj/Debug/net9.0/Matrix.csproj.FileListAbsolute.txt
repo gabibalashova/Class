@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\bin\Debug\net9.0\Matrix.exe
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\bin\Debug\net9.0\Matrix.deps.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\bin\Debug\net9.0\Matrix.runtimeconfig.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\bin\Debug\net9.0\Matrix.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\bin\Debug\net9.0\Matrix.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\refint\Matrix.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\Matrix.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Matrix\obj\Debug\net9.0\ref\Matrix.dll

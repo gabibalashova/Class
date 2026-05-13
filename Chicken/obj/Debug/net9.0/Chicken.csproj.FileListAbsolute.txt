@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\bin\Debug\net9.0\Chicken.exe
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\bin\Debug\net9.0\Chicken.deps.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\bin\Debug\net9.0\Chicken.runtimeconfig.json
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\bin\Debug\net9.0\Chicken.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\bin\Debug\net9.0\Chicken.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\refint\Chicken.dll
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.pdb
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\Chicken.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Gabriela B. 9A\MnogomerniMasivi\Chicken\obj\Debug\net9.0\ref\Chicken.dll
