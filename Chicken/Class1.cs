@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chicken
 {
-    internal class Chicken
+    class Chicken
     {
         private string name;
         private int age;
